@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20210"
+        id        = "com.lsdb.lsdbmobile"
+        versionCode = "10210"
         version   = "3.4.0">
     <name>LSDB</name>
 
@@ -11,8 +11,8 @@
         LSDB Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://lsdb.co.uk/" email="lsdb@gmail.com">
+        LSDB Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
