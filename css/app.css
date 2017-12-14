@@ -27,7 +27,7 @@ $dark:                            #444 !default;
   Modified icons to fit ionicon’s grid from original.
 */
 // import bar content color
-$bar-content-bg: #1d2057 !default;
+$bar-content-bg:#1d2057 !default;
 
 
 @font-face {
