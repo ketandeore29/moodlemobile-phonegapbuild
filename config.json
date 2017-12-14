@@ -2,7 +2,7 @@
     "app_id" : "com.lsdb.lsdbmobile",
     "appname": "LSDB",
     "desktopappname": "LSDB Desktop",
-    "versioncode" : "10210",
+    "versioncode" : "122017",
     "versionname" : "3.4.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
