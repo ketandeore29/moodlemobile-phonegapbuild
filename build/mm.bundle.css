@@ -10566,7 +10566,7 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #1d2057;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
@@ -10580,7 +10580,7 @@ a.button {
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f98012; }
+      background-color: #1d2057; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
@@ -12765,7 +12765,7 @@ mm-course-list-item div.item-icon-left.earlysubmission {
   background-color: #eeeeee; }
   .mm-capture-media-modal .bar-header {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #1d2057;
     background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
     color: #ffffff; }
     .mm-capture-media-modal .bar-header .title {
@@ -13089,7 +13089,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #1d2057;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
