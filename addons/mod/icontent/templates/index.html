@@ -15,10 +15,8 @@
         <mm-loading hide-until="icontentLoaded">
             <div class="tabs tabs-striped tabs-free mm-tabs-color" ng-if="canViewReports">
                 <a class="tab-item" ng-class="{'active': display == DISPLAY_VIEW}" ng-click="changeDisplay(DISPLAY_VIEW)">{{ 'mma.mod_icontent.preview' | translate }}</a>
-                <a class="tab-item" ng-class="{'active': display == DISPLAY_REPORTS}" ng-click="changeDisplay(DISPLAY_REPORTS)">{{ 'mma.mod_icontent.reports' | translate }}</a>
+                
             </div>
-
-
         </mm-loading>
     </ion-content>
 </ion-view>
